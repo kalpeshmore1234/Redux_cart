@@ -1,0 +1,30 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background-color: yellowgreen !important;
+} /*  */
+
+
+.navbar{
+  background-color: rgb(252, 255, 254);
+}
+
+.cart-button{
+   text-decoration: none;
+   list-style: none;
+}
+
+#btn-cart{
+  border: 2px solid blue;
+}
+
+
+.nav-logo{
+   color: rgb(24, 24, 106);
+   font-size: 7em;
+   font-weight: bold;
+}
